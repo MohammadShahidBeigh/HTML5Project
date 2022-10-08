@@ -1,0 +1,6 @@
+name: "Adding h2 tags"
+stepId: step1
+stepBreakDown:
+  - text: You must have h2 tag on screen
+  - text: You must have "Email Addresses" inside that h2 tag
+  - text: H1 tag should still exist 
