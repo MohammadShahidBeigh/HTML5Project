@@ -2,7 +2,7 @@ name: "Adding h4 tags"
 stepId: step3
 stepBreakDown:
   - text: You must have h4 tag on screen
-  - text: You must have "Email Addresses" inside that h4 tag
+  - text: You must have "SOLO NEXT" inside that h4 tag
   - text: H1 tag should still exist 
   - text: H2 tag should still exist 
   - text: H3 tag should still exist 

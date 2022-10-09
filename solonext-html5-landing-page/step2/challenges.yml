@@ -2,6 +2,6 @@ name: "Adding h3 tags"
 stepId: step2
 stepBreakDown:
   - text: You must have h3 tag on screen
-  - text: You must have "Email Addresses" inside that h3 tag
+  - text: You must have "SOLO NEXT" inside that h3 tag
   - text: H1 tag should still exist 
   - text: H2 tag should still exist 

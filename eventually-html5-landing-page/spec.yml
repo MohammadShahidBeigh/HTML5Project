@@ -1,19 +1,19 @@
-name: SOLONEXT - Stunning HTML5 Landing Page
+name: SOLO NEXT Eventually- Stunning HTML5 Landing Page
 tags: ["HTML/CSS", "JavaScript"]
 starter-files: https://github.com/MohammadShahidBeigh/solonext-html5-landing-page-guided-starter
 type: frontend
 level: easy
 cover-image: https://raw.githubusercontent.com/codedamn-projects/eventually-stunning-html5-landing-page/master/designs/Landing%20Page%20%5BDesktop%5D.jpg
-short-description: Building a simple and minimal landing page "SOLONEXT" built in HTML5 for a pre-launch to collect email addresses. 
+short-description: Building a simple and minimal landing page "SOLO NEXT" built in HTML5 for a pre-launch to collect email addresses. 
 long-description: |
-  Your challenge is to use all heading tags (h1 to h6) in this project and write "Email Addresses" to them.
+  Your challenge is to use all heading tags (h1 to h6) in this project and write "SOLO NEXT" to them.
 
   This would involves:
   - h1
   - h2
   - h3
   - h4
-  - h5
+  - h5 
   - h6
   
  # https://codedamn.com/projects specific section
