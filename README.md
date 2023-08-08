@@ -4,7 +4,7 @@ This initiative is part of [Codedamn's Hacktoberfest](https://codedamn.com/hackt
 
 During Hacktoberfest, submit an interactive project to this repository and get a change to win a Codedamn's T-shirt.
 
-## How to participate? (read carefully)
+## How to participate? (read carefully) 👀
 
 If you want to watch a step-by-step video on how to contribute, check out this video: [https://www.youtube.com/watch?v=a65Qaycbb0k](https://www.youtube.com/watch?v=a65Qaycbb0k)
 
